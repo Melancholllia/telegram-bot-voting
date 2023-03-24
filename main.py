@@ -40,7 +40,7 @@ def botactions(bot):
 
     def command_start(message):
         user_id = message.from_user.id
-        bot.send_message(message.from_user.id, '''Hello! Choose one miss and send her number.
+        bot.send_message(message.from_user.id, '''Hello! Choose one miss and send her number. hui
     1 - Some name 1
     2 - Some name 2
     3 - Some name 3
